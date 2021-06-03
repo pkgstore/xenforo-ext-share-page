@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+  <option option_id="ext_7f33fcfa_vk" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_ok" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_mailRu" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_blogger" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_linkedIn" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_liveInternet" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_liveJournal" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_everNote" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_addThis" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_getPocket" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_hackerNews" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_digg" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_buffer" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_flipboard" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_instapaper" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_surfingbird" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_diaspora" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_googleBookmarks" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_qZone" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_weibo" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_douban" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_xing" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_renRen" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_telegram" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+  <option option_id="ext_7f33fcfa_skype" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_7f33fcfa" display_order="1"/>
+  </option>
+</options>

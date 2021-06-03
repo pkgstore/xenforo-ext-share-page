@@ -1,0 +1,36 @@
+{
+  "name": "pkgstore/xenforo-ext-share-page",
+  "type": "xenforo-extension",
+  "description": "",
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://github.com/pkgstore",
+  "keywords": [
+    "xenforo",
+    "share"
+  ],
+  "authors": [
+    {
+      "name": "Kitsune Solar",
+      "email": "kitsune.solar@gmail.com",
+      "homepage": "https://kitsune.solar",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/pkgstore/xenforo-ext-share-page/issues",
+    "source": "https://github.com/pkgstore/xenforo-ext-share-page"
+  },
+  "require": {
+    "composer/installers": "^1.9"
+  },
+  "autoload": {
+    "psr-4": {}
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false
+  },
+  "extra": {
+    "installer-name": "ext_7f33fcfa"
+  }
+}

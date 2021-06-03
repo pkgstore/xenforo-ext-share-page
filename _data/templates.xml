@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+  <template type="public"
+            title="ext_7f33fcfa.less"
+            version_id="1000070"
+            version_string="1.0.0"><![CDATA[.shareButtons-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  &.shareButtons-button {
+    &--brand {
+      &.ext_7f33fcfa-button {
+        > i {
+          font-family: 'Font Awesome 5 Brands', 'Font Awesome 5 Pro';
+        }
+      }
+    }
+    &--vk {
+      &:hover {
+        background-color: #45668e;
+      }
+      > i {
+        &::before {
+          content: '\f189';
+        }
+      }
+    }
+    &--ok {
+      &:hover {
+        background-color: #ed812b;
+      }
+      > i {
+        &::before {
+          content: '\f263';
+        }
+      }
+    }
+    &--mailru {
+      &:hover {
+        background-color: #168de2;
+      }
+      > i {
+        &::before {
+          content: '\f1fa';
+        }
+      }
+    }
+    &--blogger {
+      &:hover {
+        background-color: #f57d00;
+      }
+      > i {
+        &::before {
+          content: '\f37d';
+        }
+      }
+    }
+    &--linkedin {
+      &:hover {
+        background-color: #0077b5;
+      }
+      > i {
+        &::before {
+          content: '\f0e1';
+        }
+      }
+    }
+    &--liveinternet {
+      &:hover {
+        background-color: #5aabe1;
+      }
+      > i {
+        &::before {
+          content: '\f245';
+        }
+      }
+    }
+    &--livejournal {
+      &:hover {
+        background-color: #004359;
+      }
+      > i {
+        &::before {
+          content: '\f14b';
+        }
+      }
+    }
+    &--evernote {
+      &:hover {
+        background-color: #2dbe60;
+      }
+      > i {
+        &::before {
+          content: '\f839';
+        }
+      }
+    }
+    &--addthis {
+      &:hover {
+        background-color: #ff683e;
+      }
+      > i {
+        &::before {
+          content: '\f0fe';
+        }
+      }
+    }
+    &--getpocket {
+      &:hover {
+        background-color: #ef4056;
+      }
+      > i {
+        &::before {
+          content: '\f265';
+        }
+      }
+    }
+    &--hackernews {
+      &:hover {
+        background-color: #ff4000;
+      }
+      > i {
+        &::before {
+          content: '\f1d4';
+        }
+      }
+    }
+    &--digg {
+      &:hover {
+        background-color: #005be2;
+      }
+      > i {
+        &::before {
+          content: '\f1a6';
+        }
+      }
+    }
+    &--buffer {
+      &:hover {
+        background-color: #168eea;
+      }
+      > i {
+        &::before {
+          content: '\f837';
+        }
+      }
+    }
+    &--flipboard {
+      &:hover {
+        background-color: #e12828;
+      }
+      > i {
+        &::before {
+          content: '\f44d';
+        }
+      }
+    }
+    &--instapaper {
+      &:hover {
+        background-color: #000;
+      }
+      > i {
+        &::before {
+          content: '\f033';
+        }
+      }
+    }
+    &--surfingbird {
+      &:hover {
+        background-color: #26b0f6;
+      }
+      > i {
+        &::before {
+          content: '\f52d';
+        }
+      }
+    }
+    &--diaspora {
+      &:hover {
+        background-color: #222;
+      }
+      > i {
+        &::before {
+          content: '\f791';
+        }
+      }
+    }
+    &--googlebookmarks {
+      &:hover {
+        background-color: #4285f4;
+      }
+      > i {
+        &::before {
+          content: '\f1a0';
+        }
+      }
+    }
+    &--qzone {
+      &:hover {
+        background-color: #ffcd00;
+      }
+      > i {
+        &::before {
+          content: '\f005';
+        }
+      }
+    }
+
+    &--weibo {
+      &:hover {
+        background-color: #df2029;
+      }
+      > i {
+        &::before {
+          content: '\f18a';
+        }
+      }
+    }
+    &--douban {
+      &:hover {
+        background-color: #2e963d;
+      }
+      > i {
+        &::before {
+          content: '豆';
+        }
+      }
+    }
+    &--xing {
+      &:hover {
+        background-color: #026466;
+      }
+      > i {
+        &::before {
+          content: '\f168';
+        }
+      }
+    }
+    &--renren {
+      &:hover {
+        background-color: #005baa;
+      }
+      > i {
+        &::before {
+          content: '\f18b';
+        }
+      }
+    }
+    &--telegram {
+      &:hover {
+        background-color: #0088cc;
+      }
+      > i {
+        &::before {
+          content: '\f3fe';
+        }
+      }
+    }
+    &--skype {
+      &:hover {
+        background-color: #00aff0;
+      }
+      > i {
+        &::before {
+          content: '\f17e';
+        }
+      }
+    }
+  }
+}]]></template>
+</templates>
