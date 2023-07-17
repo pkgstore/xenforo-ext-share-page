@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="ext_7f33fcfa_vk" version_id="1000070" version_string="1.0.0"><![CDATA[ВКонтакте]]></phrase>
+  <phrase title="ext_7f33fcfa_ok" version_id="1000070" version_string="1.0.0"><![CDATA[Одноклассники]]></phrase>
+  <phrase title="ext_7f33fcfa_mailru" version_id="1000070" version_string="1.0.0"><![CDATA[Mail.Ru]]></phrase>
+  <phrase title="ext_7f33fcfa_blogger" version_id="1000070" version_string="1.0.0"><![CDATA[Blogger]]></phrase>
+  <phrase title="ext_7f33fcfa_linkedin" version_id="1000070" version_string="1.0.0"><![CDATA[LinkedIn]]></phrase>
+  <phrase title="ext_7f33fcfa_liveinternet" version_id="1000070" version_string="1.0.0"><![CDATA[LiveInternet]]></phrase>
+  <phrase title="ext_7f33fcfa_livejournal" version_id="1000070" version_string="1.0.0"><![CDATA[LiveJournal]]></phrase>
+  <phrase title="ext_7f33fcfa_evernote" version_id="1000070" version_string="1.0.0"><![CDATA[EverNote]]></phrase>
+  <phrase title="ext_7f33fcfa_addthis" version_id="1000070" version_string="1.0.0"><![CDATA[AddThis]]></phrase>
+  <phrase title="ext_7f33fcfa_getpocket" version_id="1000070" version_string="1.0.0"><![CDATA[Pocket]]></phrase>
+  <phrase title="ext_7f33fcfa_hackernews" version_id="1000070" version_string="1.0.0"><![CDATA[Hacker News]]></phrase>
+  <phrase title="ext_7f33fcfa_digg" version_id="1000070" version_string="1.0.0"><![CDATA[Digg]]></phrase>
+  <phrase title="ext_7f33fcfa_buffer" version_id="1000070" version_string="1.0.0"><![CDATA[Buffer]]></phrase>
+  <phrase title="ext_7f33fcfa_flipboard" version_id="1000070" version_string="1.0.0"><![CDATA[Flipboard]]></phrase>
+  <phrase title="ext_7f33fcfa_instapaper" version_id="1000070" version_string="1.0.0"><![CDATA[Instapaper]]></phrase>
+  <phrase title="ext_7f33fcfa_surfingbird" version_id="1000070" version_string="1.0.0"><![CDATA[Surfingbird]]></phrase>
+  <phrase title="ext_7f33fcfa_diaspora" version_id="1000070" version_string="1.0.0"><![CDATA[Diaspora]]></phrase>
+  <phrase title="ext_7f33fcfa_googlebookmarks" version_id="1000070" version_string="1.0.0"><![CDATA[Google Bookmarks]]></phrase>
+  <phrase title="ext_7f33fcfa_qzone" version_id="1000070" version_string="1.0.0"><![CDATA[QZone]]></phrase>
+  <phrase title="ext_7f33fcfa_weibo" version_id="1000070" version_string="1.0.0"><![CDATA[Weibo]]></phrase>
+  <phrase title="ext_7f33fcfa_douban" version_id="1000070" version_string="1.0.0"><![CDATA[Douban]]></phrase>
+  <phrase title="ext_7f33fcfa_xing" version_id="1000070" version_string="1.0.0"><![CDATA[Xing]]></phrase>
+  <phrase title="ext_7f33fcfa_renren" version_id="1000070" version_string="1.0.0"><![CDATA[RenRen]]></phrase>
+  <phrase title="ext_7f33fcfa_telegram" version_id="1000070" version_string="1.0.0"><![CDATA[Telegram]]></phrase>
+  <phrase title="ext_7f33fcfa_skype" version_id="1000070" version_string="1.0.0"><![CDATA[Skype]]></phrase>
+  <phrase title="option.ext_7f33fcfa_vk" version_id="1000070" version_string="1.0.0"><![CDATA[ВКонтакте]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_vk" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "ВКонтакте".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_ok" version_id="1000070" version_string="1.0.0"><![CDATA[Одноклассники]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_ok" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "Одноклассники".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_mailRu" version_id="1000070" version_string="1.0.0"><![CDATA[Mail.Ru]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_mailRu" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "Mail.Ru".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_blogger" version_id="1000070" version_string="1.0.0"><![CDATA[Blogger]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_blogger" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "Blogger".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_linkedIn" version_id="1000070" version_string="1.0.0"><![CDATA[LinkedIn]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_linkedIn" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "LinkedIn".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_liveInternet" version_id="1000070" version_string="1.0.0"><![CDATA[LiveInternet]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_liveInternet" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "LiveInternet".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_liveJournal" version_id="1000070" version_string="1.0.0"><![CDATA[LiveJournal]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_liveJournal" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "LiveJournal".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_everNote" version_id="1000070" version_string="1.0.0"><![CDATA[EverNote]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_everNote" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "EverNote".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_addThis" version_id="1000070" version_string="1.0.0"><![CDATA[AddThis]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_addThis" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "AddThis".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_getPocket" version_id="1000070" version_string="1.0.0"><![CDATA[Pocket]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_getPocket" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "Pocket".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_hackerNews" version_id="1000070" version_string="1.0.0"><![CDATA[Hacker News]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_hackerNews" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "Hacker News".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_digg" version_id="1000070" version_string="1.0.0"><![CDATA[Digg]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_digg" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "Digg".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_buffer" version_id="1000070" version_string="1.0.0"><![CDATA[Buffer]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_buffer" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "Buffer".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_flipboard" version_id="1000070" version_string="1.0.0"><![CDATA[Flipboard]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_flipboard" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "Flipboard"]]></phrase>
+  <phrase title="option.ext_7f33fcfa_instapaper" version_id="1000070" version_string="1.0.0"><![CDATA[Instapaper]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_instapaper" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "Instapaper".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_surfingbird" version_id="1000070" version_string="1.0.0"><![CDATA[Surfingbird]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_surfingbird" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "Surfingbird".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_diaspora" version_id="1000070" version_string="1.0.0"><![CDATA[Diaspora]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_diaspora" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "Diaspora".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_googleBookmarks" version_id="1000070" version_string="1.0.0"><![CDATA[Google Bookmarks]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_googleBookmarks" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "Google Bookmarks".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_qZone" version_id="1000070" version_string="1.0.0"><![CDATA[QZone]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_qZone" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "QZone".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_weibo" version_id="1000070" version_string="1.0.0"><![CDATA[Weibo]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_weibo" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "Weibo".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_douban" version_id="1000070" version_string="1.0.0"><![CDATA[Douban]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_douban" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "Douban".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_xing" version_id="1000070" version_string="1.0.0"><![CDATA[Xing]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_xing" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "Xing".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_renRen" version_id="1000070" version_string="1.0.0"><![CDATA[RenRen]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_renRen" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "RenRen".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_telegram" version_id="1000070" version_string="1.0.0"><![CDATA[Telegram]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_telegram" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "Telegram".]]></phrase>
+  <phrase title="option.ext_7f33fcfa_skype" version_id="1000070" version_string="1.0.0"><![CDATA[Skype]]></phrase>
+  <phrase title="option_explain.ext_7f33fcfa_skype" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение кнопки "Skype".]]></phrase>
+  <phrase title="option_group.ext_7f33fcfa" version_id="1000070" version_string="1.0.0"><![CDATA[Share Page]]></phrase>
+  <phrase title="option_group_description.ext_7f33fcfa" version_id="1000070" version_string="1.0.0"><![CDATA[Параметры конфигурации расширенной функции "Поделиться страницей".]]></phrase>
+</phrases>

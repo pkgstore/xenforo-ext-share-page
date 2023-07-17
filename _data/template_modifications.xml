@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<template_modifications>
+  <modification type="public"
+                template="share_page_macros"
+                modification_key="ext_7f33fcfa_less"
+                description=""
+                execution_order="9999"
+                enabled="1"
+                action="str_replace">
+    <find><![CDATA[<xf:css src="share_controls.less" />]]></find>
+    <replace><![CDATA[$0
+<xf:css src="ext_7f33fcfa.less" />]]></replace>
+  </modification>
+  <modification type="public"
+                template="share_page_macros"
+                modification_key="ext_7f33fcfa_macros_01"
+                description=""
+                execution_order="9999"
+                enabled="1"
+                action="str_replace">
+    <find><![CDATA[<xf:if is="$xf.options.whatsAppShare">]]></find>
+    <replace><![CDATA[<xf:if is="$xf.options.ext_7f33fcfa_vk">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--vk ext_7f33fcfa-button"
+     data-href="http://vk.com/share.php?url={url}&amp;title={title}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_vk') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_ok">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--ok ext_7f33fcfa-button"
+     data-href="https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&amp;st.shareUrl={url}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_ok') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_mailRu">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--mailru ext_7f33fcfa-button"
+     data-href="https://connect.mail.ru/share?url={url}&amp;title={title}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_mailru') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_blogger">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--blogger ext_7f33fcfa-button"
+     data-href="https://www.blogger.com/blog-this.g?u={url}&amp;n={title}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_blogger') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_linkedIn">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--linkedin ext_7f33fcfa-button"
+     data-href="https://www.linkedin.com/shareArticle?mini=true&amp;url={url}&amp;title={title}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_linkedin') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_liveInternet">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--liveinternet ext_7f33fcfa-button"
+     data-href="https://www.liveinternet.ru//journal_post.php?action=n_add&amp;cnurl={url}&amp;cntitle={title}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_liveinternet') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_liveJournal">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--livejournal ext_7f33fcfa-button"
+     data-href="http://www.livejournal.com/update.bml?subject={title}&amp;event={url}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_livejournal') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_everNote">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--evernote ext_7f33fcfa-button"
+     data-href="http://www.evernote.com/clip.action?url={url}&amp;title={title}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_evernote') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_addThis">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--addthis ext_7f33fcfa-button"
+     data-href="http://www.addthis.com/bookmark.php?url={url}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_addthis') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_getPocket">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--getpocket ext_7f33fcfa-button"
+     data-href="https://getpocket.com/edit?url={url}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_getpocket') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_hackerNews">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--hackernews ext_7f33fcfa-button"
+     data-href="https://news.ycombinator.com/submitlink?u={url}&amp;t={title}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_hackernews') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_digg">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--digg ext_7f33fcfa-button"
+     data-href="http://digg.com/submit?url={url}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_digg') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_buffer">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--buffer ext_7f33fcfa-button"
+     data-href="https://buffer.com/add?text={title}&amp;url={url}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_buffer') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_flipboard">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--flipboard ext_7f33fcfa-button"
+     data-href="https://share.flipboard.com/bookmarklet/popout?v=2&amp;title={title}&amp;url={url}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_flipboard') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_instapaper">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--instapaper ext_7f33fcfa-button"
+     data-href="http://www.instapaper.com/edit?url={url}&amp;title={title}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_instapaper') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_surfingbird">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--surfingbird ext_7f33fcfa-button"
+     data-href="http://surfingbird.ru/share?url={url}&amp;title={title}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_surfingbird') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_diaspora">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--diaspora ext_7f33fcfa-button"
+     data-href="https://share.diasporafoundation.org/?title={title}&amp;url={url}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_diaspora') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_googleBookmarks">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--googlebookmarks ext_7f33fcfa-button"
+     data-href="https://www.google.com/bookmarks/mark?op=edit&amp;bkmk={url}&amp;title={title}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_googlebookmarks') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_qZone">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--qzone ext_7f33fcfa-button"
+     data-href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url={url}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_qzone') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_weibo">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--weibo ext_7f33fcfa-button"
+     data-href="http://service.weibo.com/share/share.php?url={url}&amp;appkey=&amp;title={title}&amp;pic=&amp;ralateUid=">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_weibo') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_douban">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--douban ext_7f33fcfa-button"
+     data-href="http://www.douban.com/recommend/?url={url}&amp;title={title}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_douban') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_xing">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--xing ext_7f33fcfa-button"
+     data-href="https://www.xing.com/spi/shares/new?url={url}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_xing') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_renRen">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--renren ext_7f33fcfa-button"
+     data-href="http://widget.renren.com/dialog/share?resourceUrl={url}&amp;srcUrl={url}&amp;title={title}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_renren') }}</span>
+  </a>
+</xf:if>
+$0]]></replace>
+  </modification>
+  <modification type="public"
+                template="share_page_macros"
+                modification_key="ext_7f33fcfa_macros_02"
+                description=""
+                execution_order="9999"
+                enabled="1"
+                action="str_replace">
+    <find><![CDATA[<xf:if is="$xf.options.emailShare">]]></find>
+    <replace><![CDATA[<xf:if is="$xf.options.ext_7f33fcfa_telegram">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--telegram ext_7f33fcfa-button"
+     data-href="https://telegram.me/share/url?url={url}&amp;text={title}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_telegram') }}</span>
+  </a>
+</xf:if>
+<xf:if is="$xf.options.ext_7f33fcfa_skype">
+  <a class="shareButtons-button shareButtons-button--brand shareButtons-button--skype ext_7f33fcfa-button"
+     data-href="https://web.skype.com/share?url={url}&amp;text={title}">
+    <i aria-hidden="true"></i>
+    <span>{{ phrase('ext_7f33fcfa_skype') }}</span>
+  </a>
+</xf:if>
+$0]]></replace>
+  </modification>
+</template_modifications>

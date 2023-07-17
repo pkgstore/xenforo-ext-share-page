@@ -1,0 +1,42 @@
+{
+  "name": "pkgstore/xenforo-ext-share-page",
+  "type": "xenforo-extension",
+  "description": "",
+  "license": "MIT",
+  "homepage": "https://ihub.to/",
+  "keywords": [
+    "xenforo",
+    "share"
+  ],
+  "authors": [
+    {
+      "name": "iHub TO",
+      "email": "mail@ihub.to",
+      "homepage": "https://ihub.to/",
+      "role": "Developer"
+    },
+    {
+      "name": "Kitsune Solar",
+      "email": "mail@kitsune.solar",
+      "homepage": "https://kitsune.solar/",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/pkgstore/xenforo-ext-share-page/issues",
+    "source": "https://github.com/pkgstore/xenforo-ext-share-page"
+  },
+  "require": {
+    "composer/installers": "^1.9"
+  },
+  "autoload": {
+    "psr-4": {}
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false
+  },
+  "extra": {
+    "installer-name": "ext_7f33fcfa"
+  }
+}
