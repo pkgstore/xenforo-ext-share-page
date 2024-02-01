@@ -7,7 +7,6 @@
 | License      | MIT                                                |
 | Language     | Russian                                            |
 | Requirements | XenForo 2.1                                        |
-| Authors      | [iHub TO](mailto:mail@ihub.to)                     |
 
 Расширение функции **Поделиться страницей** для [**XenForo**](https://xenforo.com).
 
